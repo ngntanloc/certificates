@@ -1,9 +1,11 @@
-[![Thor Mall in Android Native App | © 2021 by thor-thunder]
 # Welcome to my certificate repositories
 
-* 50% scholarship at FPT University
+# 50% scholarship at FPT University
+
 ![Scholarship](https://github.com/thor-coderr/certificates/blob/main/scholarship-FPTUHCMC.jpg)
-* The Complete Android App Development Masterclass: Build Apps
+
+# The Complete Android App Development Masterclass: Build Apps
+
 ![UdemyAndroid](https://github.com/thor-coderr/certificates/blob/main/Udemy-AndroidApp.jpg)
 
 
