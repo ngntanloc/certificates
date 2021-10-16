@@ -1,6 +1,6 @@
 # Welcome to my certificate repositories
 
-### Below are the certificate that I have achieve:
+### Below are the certificate that I have achieved
 
 * 50% scholarship at FPT University
 
