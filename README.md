@@ -9,4 +9,4 @@
 ![UdemyAndroid](https://github.com/thor-coderr/certificates/blob/main/Udemy-AndroidApp.jpg)
 
 
-#### © 2021 thor-coderr | fb.me/ngntanloc
+#### © 2021 thor-coderr | fb.me/ngntanlocc
