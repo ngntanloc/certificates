@@ -3,6 +3,11 @@
 ### Below are the certificate that I have achieved
 
 * 50% scholarship at FPT University
+* The Complete Android App Development Masterclass: Build Apps
+
+*** Details and Image are below
+
+* 50% scholarship at FPT University
 
 ![Scholarship](https://github.com/thor-coderr/certificates/blob/main/scholarship-FPTUHCMC.jpg)
 
