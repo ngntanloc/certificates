@@ -5,7 +5,8 @@
 * 50% scholarship at FPT University
 * The Complete Android App Development Masterclass: Build Apps
 
-*** Details and Image are below
+#### Details and Image are below
+
 
 * 50% scholarship at FPT University
 
