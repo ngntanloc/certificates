@@ -1,11 +1,11 @@
 # Welcome to my certificate repositories
 
-### Below are the certificate that I have achieved
+### Certificate that I have achieved
 
 * 50% scholarship at FPT University
 * The Complete Android App Development Masterclass: Build Apps
 
-#### Details and Image are below
+##### Details and Image are below
 
 
 * 50% scholarship at FPT University
